@@ -167,3 +167,24 @@ git push -u origin master
 - Use the personal access token for password
 - If VSCode continues to nag you for credentials as you use git, you did something wrong
 - Committing and pushing can then be done from VSCode menus without using command line
+
+---
+
+### About WPILib
+
+- WPI = Worchester Polytechnic Institute
+- Created an absraction over complicated hardware (see [history](https://www.firstinspires.org/robotics/frc/blog/2019-wpilib))
+  - In [C/C++](http://first.wpi.edu/FRC/roborio/release/docs/cpp/)
+- [Java language wrapper](http://first.wpi.edu/FRC/roborio/release/docs/java/) created on top of WPILib native code
+- Other wrappers now exist (Python and C# for example)
+- Project template and build tools built for Eclipse and VSCode
+
+---
+
+### WPILib Fundamentals
+
+- Ctrl-Shift-P
+- Type WPI
+- Create a new project
+- Terminal window
+- gradlew build
