@@ -40,3 +40,21 @@
     - [Git](https://git-scm.com/download) Plugin built in, but Git must be installed
       - [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
+---
+
+### The Git Adventure
+
+- New project requires an initialized local repository (repo)
+- New files must be added and then committed to local repo
+- You can do this in VSCode, debug pane, type commit message and press ctrl-enter
+- This DOES NOT push your code to the web (github.com)
+
+### Pushing Code to github.com
+
+- You need a Github account and have lead authorize you to Team997Coders
+- Create a [personal access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
+- In root project directory, 
+- Enable windows credential manager to store your credentials
+```
+git config --global credential.helper wincred
+```
