@@ -42,6 +42,18 @@
 
 ---
 
+### About Git
+
+- Source code control system
+- Supports tracking code versions in a team environment
+- Commits serve a checkpoints for supposedly working code
+- Commits are stored locally
+- A push must be done to get code to central serer
+- Do small bits of work, make those bits at least compile, and then commit
+- Branches serve as a base point to work a separate code base
+
+---
+
 ### The Git Adventure
 
 - New project requires an initialized local repository (repo)
