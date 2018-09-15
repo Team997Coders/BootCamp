@@ -177,7 +177,7 @@ git push -u origin master
   - In [C/C++](http://first.wpi.edu/FRC/roborio/release/docs/cpp/)
 - [Java language wrapper](http://first.wpi.edu/FRC/roborio/release/docs/java/) created on top of WPILib native code
 - Other wrappers now exist (Python and C# for example)
-- Project template and build tools built for Eclipse and VSCode
+- [Project template](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/145307-creating-your-benchtop-test-program) and build tools built for Eclipse and VSCode
 
 ---
 
