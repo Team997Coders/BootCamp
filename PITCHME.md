@@ -6,7 +6,7 @@
 ---
 
 ### Where To Start?
-#### Simple...at the beginning.
+#### Simple: at the beginning.
 
 - Integrated Development Environment (IDE): Microsoft VSCode
 - Build Tools: Gradle
@@ -17,7 +17,8 @@
 
 ### IDE Microsoft VSCode
 
-- Lightweight development environment
+- Lightweight integrated development environment
+-- Code, build, test, debug, blame, and deploy
 - Multi-platform: Runs on Windows, Linux, and Mac
 - Multi-language: Plugins for C#, C++, Ruby, Java, Python, NodeJS, and many more
 - Integration with source code control (we use Github)
