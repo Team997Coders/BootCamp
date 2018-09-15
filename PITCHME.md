@@ -116,6 +116,8 @@ gradle wrapper
   - Resembles C/C++ in syntax - object orientation
   - Claim to fame: write once, run everywhere
     - Nice goal, but as you will see with robot projects...challenge
+  - [Core Concepts](http://tutorials.jenkov.com/java/core-concepts.html)
+  - Hello world exercise
 
 ---
 
