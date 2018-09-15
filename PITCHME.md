@@ -24,6 +24,8 @@
 - Integrated debugger
 - [Download](https://code.visualstudio.com/download) and install from Microsoft
 
+---
+
 ### VSCode
 #### What you need to know
 
