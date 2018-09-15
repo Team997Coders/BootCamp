@@ -30,6 +30,9 @@
 #### What you need to know
 
 - One key combination!
-  - <Ctrl><Shift>-P
+  - Ctrl-Shift-P
+  - Remember it, know it, love it!
 - Welcome page...go though topics
+- Plugins
+  - Makes VSCode work for you
 
