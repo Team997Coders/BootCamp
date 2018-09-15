@@ -16,7 +16,7 @@
 
 ---
 
-### IDE Microsoft VSCode
+### Introducing Microsoft VSCode
 
 - Lightweight integrated development environment: Code, build, test, debug, blame, and deploy
 - Multi-platform: Runs on Windows, Linux, and Mac
@@ -27,8 +27,7 @@
 
 ---
 
-### VSCode
-#### What you need to know
+### VSCode: What you need to know
 
 - One key combination!
   - Ctrl-Shift-P
