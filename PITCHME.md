@@ -49,6 +49,8 @@
 - You can do this in VSCode, debug pane, type commit message and press ctrl-enter
 - This DOES NOT push your code to the web (github.com)
 
+---
+
 ### Pushing Code to github.com
 
 - You need a Github account and have lead authorize you to Team997Coders
