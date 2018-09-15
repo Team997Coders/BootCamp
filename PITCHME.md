@@ -58,7 +58,7 @@
 - Useful because building and packaging projects is a pain
 - javac, the Java compiler, must be called for every source code file
 - Compiled files are then packaged into jar files
-- Other steps are usually involed (automated testing, for example)
+- Other steps are usually involved (automated testing, for example)
 - Gradle automates this process
 
 ---
