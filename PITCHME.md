@@ -1,4 +1,4 @@
-# FIRST Robotics Programming Boot Camp
+# Programming Boot Camp
 
 ### A Guide For New Developers
 ### Spartan Robotics, Team 997
