@@ -77,6 +77,23 @@ gradle tasks
 ```
 - Dependencies and repositories enable auto of download needed resources
 - Goal: new developer can clone and build project without manually doing anything else
+
+---
+
+### Gradle Fundamentals (cont)
+
+- Dependencies and repositories enable auto of download needed resources
+- Goal: new developer can clone and build project without manually doing anything else
+- Good news: project templates for FIRST robot projects have gradle pre-configured
+- gradle and gradlew - what gives?
+  - gradlew is a wrapper around a given gradle instance
+  - Gradle is a hot mess of version updates
+  - gradlew is installed locally with a given project to make sure the gradle verion matches the gradle.build file syntax
+  - When looking at gradle docs, know what version you are using
+```
+gradlew --version
+```
+
 ---
 
 ### About Git
