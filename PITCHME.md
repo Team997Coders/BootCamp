@@ -64,3 +64,16 @@ git remote add origin https://github.com/Team997Coders/<repo name>.git
 ```
 git config --global credential.helper wincred
 ```
+
+---
+
+### Pushing Code to github.com (cont)
+
+- Push code to web
+```
+git push -u origin master
+```
+- Git will prompt you for username and password
+- Use the personal access token for password
+- If VSCode continues to nag you for credentials as you use git, you did something wrong
+- Committing and pushing can then be done from VSCode menus without using command line
