@@ -17,11 +17,17 @@
 
 ### IDE Microsoft VSCode
 
-- Lightweight integrated development environment
--- Code, build, test, debug, blame, and deploy
+- Lightweight integrated development environment: Code, build, test, debug, blame, and deploy
 - Multi-platform: Runs on Windows, Linux, and Mac
 - Multi-language: Plugins for C#, C++, Ruby, Java, Python, NodeJS, and many more
 - Integration with source code control (we use Github)
 - Integrated debugger
 - [Download](https://code.visualstudio.com/download) and install from Microsoft
+
+### VSCode
+#### What you need to know
+
+- One key combination!
+  - <Ctrl><Shift>-P
+- Welcome page...go though topics
 
