@@ -85,7 +85,7 @@ gradle tasks
 - Commits serve a checkpoints for supposedly working code
 - Commits are stored locally
 - Do small bits of work, make those bits at least compile, and then commit
-- A push must be done to get code to central serer
+- A push must be done to get code to central server
 - Branches serve as a base point to work a separate code base
 
 ---
