@@ -96,10 +96,26 @@ gradle tasks
 ```
 gradlew --version
 ```
+
+---
+
+### The Gradle Adventure (cont)
+
 - For a new project, a global install of gradle can create a fresh wrapper
 ```
 gradle wrapper
 ```
+
+---
+
+### Java Fundamentals
+
+- What is Java?
+  - Created by Sun Microsystems in 1990s
+  - Statically typed with garbage collector
+  - Resembles C/C++ in syntax - object orientation
+  - Claim to fame: write once, run everywhere
+    - Nice goal, but as you will see with robot projects...challenge
 
 ---
 
@@ -111,7 +127,6 @@ gradle wrapper
 - Commits are stored locally
 - Do small bits of work, make those bits at least compile, and then commit
 - A push must be done to get code to central server
-- Branches serve as a base point to work a separate code base
 
 ---
 
