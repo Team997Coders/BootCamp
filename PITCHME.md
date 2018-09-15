@@ -11,6 +11,7 @@
 - Integrated Development Environment (IDE): Microsoft VSCode
 - Build Tools: Gradle
 - Java Fundamentals
+- Source code control (Git)
 - WPILIB: Between you and the robot
 
 ---
@@ -37,5 +38,6 @@
   - Makes VSCode work for you
   - You'll need:
     - [Microsoft Java Extension Pack](https://code.visualstudio.com/docs/languages/java#_install-java-extensions)
-    - [Git](https://git-scm.com/download)Plugin built in, but Git must be installed
+    - [Git](https://git-scm.com/download) Plugin built in, but Git must be installed
+      - [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
