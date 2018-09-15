@@ -75,7 +75,8 @@ apply plugin: 'java'
 ```
 gradle tasks
 ```
-- Dependencies and repo 
+- Dependencies and repositories enable auto of download needed resources
+- Goal: new developer can clone and build project without manually doing anything else
 ---
 
 ### About Git
