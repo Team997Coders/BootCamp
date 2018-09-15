@@ -35,4 +35,7 @@
 - Welcome page...go though topics
 - Plugins
   - Makes VSCode work for you
+  - You'll need:
+    - [Microsoft Java Extension Pack](https://code.visualstudio.com/docs/languages/java#_install-java-extensions)
+    - [Git](https://git-scm.com/download)Plugin built in, but Git must be installed
 
